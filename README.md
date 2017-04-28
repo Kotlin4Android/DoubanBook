@@ -1,9 +1,11 @@
 # BookBrowser
 豆瓣图书信息浏览客户端
 
-个人 MVP 架构，Retrofit 框架以及 RxJava 框架使用练手项目。
+去年个人练手项目。
 
 # 效果预览
+
+[apk 下载](https://github.com/githubhaohao/BookBrowser/raw/master/app-debug.apk)
 
 ![Markdown](http://i4.buimg.com/588795/0cb017e10e5984e2.gif)
 
